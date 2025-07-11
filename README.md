@@ -1,7 +1,7 @@
 ## cfg++ learning
 preview now works xash3d scripting cfg++
 
-I'm [w_sh1t](https://github.com/wh1tesh1t) im player Xash3D from 2017, and it's my priview now works xash3d scripting.
+I'm [w_sh1t](https://github.com/wh1tesh1t) im player Xash3D from 2017, and it's my preview now works xash3d scripting.
 
 # About Xash3D
 Xash3D is ([pronounced](https://ipa-reader.com/?text=ks%C9%91%CA%82) `[ksɑʂ]`) FWGS is a game engine, aimed to provide compatibility with Half-Life Engine and extend it, as well as to give game developers well known workflow. [Link](https://github.com/wh1tesh1t/xash3d-fwgs)
@@ -12,7 +12,7 @@ Xash3D is ([pronounced](https://ipa-reader.com/?text=ks%C9%91%CA%82) `[ksɑʂ]`)
 - Open game
 - Open Console (if this button hiden type -console)
 - Type 'makehelp'
-- Close your gsme and open help.txt (in your game folder using Text Editors)
+- Close your game and open help.txt (in your game folder using Text Editors)
 
 # 1 Level (Simple scripting)
 ## Alias method
