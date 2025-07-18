@@ -61,7 +61,7 @@ if $sv_cheats = 0
 ```
 alias "say_cmd" "msg_1"
 alias "msg_1" "say hello world ; wait;wait ; alias say_cmd msg_2"
-alias "msg_1" "say bye world ; wait;wait ; alias say_cmd msg_1"
+alias "msg_2" "say bye world ; wait;wait ; alias say_cmd msg_1"
 // etc...
 
 // connect.cfg
